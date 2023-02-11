@@ -52,6 +52,7 @@ async function getResultsFromPromises(promises) {
 }
 
 console.log("HOLA GIT");
+console.log("HOLA GIT 2");
 
 // const b = getResultsFromPromises([promesa(), promesa()]);
 // console.log(b);
